@@ -1,0 +1,23 @@
+Congratulations!, You have successfully booked a ticket.
+You have booked 1 tickets in this month. You can book up to 12 tickets if you have completed Aadhaar KYC and at least one of the passengers is Aadhaar verified in the ticket. Click here to know more
+Please carry ERS / VRM / SMS sent by IRCTC along with a relevant photo ID card while travelling.
+Note: Departure Time and Arrival Time displayed are liable to change. Please check correct departure & arrival time from Railway Station Enquiry, Dial 139 or SMS RAIL to 139.
+PNR NO: 8122450887Transaction ID. 100001982806302
+Train No..
+12905Date 
+Aug 12, 2019Adult 
+2Child 
+0Class 
+AC 2 Tier (2A)Quota 
+GENERAL
+PBR HOWRAH EXP (12905)
+Monday, August 12, 2019
+NAGPUR (NGP)
+Departure: 09:50Monday, August 12, 2019
+RAIPUR JN (R)
+Arrival: 14:20Boarding Station: NAGPUR (NGP) Ticket Type: E-ticketK.M.: 301
+Total Fare : : 1,370.00 ( Rupees One Thousand Three Hundred Seventy And Zero Paisa )
+
+Sample lines added using python script
+
+Sample lines added using python scriptsample text line 1
